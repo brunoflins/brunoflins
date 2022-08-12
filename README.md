@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brunoflins 
 - 👀 I am a software engineer who enjoys developing fun web applications.
-- 💞️ Creator of bpfantasy.app, an NBA fantasy app originated from the supporters group of the Brazilian podcast Bola Presa.
+- 💞️ Creator of <a>bpfantasy.app</a>, an NBA fantasy app originated from the supporters group of the Brazilian podcast Bola Presa.
 - 📫 You can find me on twitter @brunolins_
 
 <!---
